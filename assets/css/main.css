@@ -3263,6 +3263,11 @@ form, .toggle {
 	.photo {
 	border-radius: 50%;
 	}	
+	@media screen and (max-width: 400px) {
+		.photo {
+			width: 60%;
+			}
+	}
 
 /* Header */
 

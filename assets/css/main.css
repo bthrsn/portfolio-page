@@ -2244,6 +2244,9 @@ form, .toggle:before, .toggle:after {
 form, .toggle {
 	position: relative;
 }
+.toggle {
+	
+}
 .curtain, .sr, .toggle:before, .toggle:after {
 	position: absolute;
 }
@@ -3558,7 +3561,7 @@ form, .toggle {
 		}
 
 		#main > .post {
-			padding: 8rem 8rem 6rem 8rem ;
+			padding: 3rem 8rem 2rem 8rem ;
 		}
 
 			#main > .post header.major > .date {

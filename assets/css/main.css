@@ -2289,6 +2289,14 @@ form, .toggle {
 	position: absolute;
 	left: 5vh;
 }
+
+@media screen and (max-width: 414px){
+	#dark-mode {
+		position: relative;
+		left: 0;
+	}
+}
+
 .toggle:before, .toggle:after {
 	border-radius: 50%;
 	content: "";

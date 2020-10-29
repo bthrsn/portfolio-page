@@ -254,5 +254,14 @@
 			});
 
 		}
+		
+	// Delete toggle on IE
+	$(function () {
+			if (browser.name == 'ie'			// IE
+		|| browser.name == 'edge'			// Edge
+		) {
+			$('#dark-theme').remove();
+		}
+	});
 
 })(jQuery);

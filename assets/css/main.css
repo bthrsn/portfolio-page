@@ -2244,9 +2244,6 @@ form, .toggle:before, .toggle:after {
 form, .toggle {
 	position: relative;
 }
-.toggle {
-	
-}
 .curtain, .sr, .toggle:before, .toggle:after {
 	position: absolute;
 }
@@ -2287,6 +2284,10 @@ form, .toggle {
 	-webkit-appearance: none;
 	appearance: none;
 	-webkit-tap-highlight-color: transparent;
+}
+#dark-mode {
+	position: absolute;
+	left: 5vh;
 }
 .toggle:before, .toggle:after {
 	border-radius: 50%;

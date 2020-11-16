@@ -256,7 +256,7 @@
 		}
 		
 	// Delete toggle on IE
-	$(function () {
+	$(function (){
 			if (browser.name == 'ie'			// IE
 		|| browser.name == 'edge'			// Edge
 		) {

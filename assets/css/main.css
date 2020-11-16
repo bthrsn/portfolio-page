@@ -3273,11 +3273,12 @@ form, .toggle {
 		
 /* Photo */
 	.photo {
+	width: 25%;
 	border-radius: 50%;
 	}	
-	@media screen and (max-width: 400px) {
+	@media screen and (max-width: 414px) {
 		.photo {
-			width: 60%;
+			width: 80%;
 			}
 	}
 

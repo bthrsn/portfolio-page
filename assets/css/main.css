@@ -3060,7 +3060,7 @@ form, .toggle {
 				background-size: auto,								auto,														auto 175%;
 			}
 
-		}
+		}		
 
 /* Intro */
 
@@ -3091,7 +3091,7 @@ form, .toggle {
 		cursor: default;
 		text-align: center;
 		z-index: 1;
-		min-height: 100vh;
+		min-height: 90vh;
 	}
 
 		#intro input, #intro select, #intro textarea {
@@ -3230,11 +3230,19 @@ form, .toggle {
 				opacity: 0;
 			}
 
+		@media screen and (max-width: 1024px) {
+
+		#intro {
+			min-height: 60vh;
+		}
+	
+		}
+		
 		@media screen and (max-width: 980px) {
 
 			#intro {
 				padding: 4rem 4rem 2rem 4rem ;
-				min-height: 90vh;
+				min-height: 70vh;
 			}
 
 				#intro p br {
@@ -3246,12 +3254,12 @@ form, .toggle {
 				}
 
 		}
-
+		
 		@media screen and (max-width: 736px) {
 
 			#intro {
 				padding: 3rem 2rem 1rem 2rem ;
-				min-height: 80vh;
+				min-height: 60vh;
 			}
 
 				#intro h1 {
@@ -3271,17 +3279,57 @@ form, .toggle {
 
 		}
 		
+		@media screen and (max-width: 580px) {
+			#intro {
+				min-height: 50vh;
+			}
+		}
+		
 /* Photo */
+
 	.photo {
-	width: 25%;
+	width: 20%;
 	border-radius: 50%;
 	}	
-	@media screen and (max-width: 414px) {
+	
+	@media screen and (max-width: 1360px) {
+	
 		.photo {
-			width: 80%;
+			width: 30%;
 			}
+			
 	}
 
+	@media screen and (max-width: 980px) {
+	
+		.photo {
+			width: 40%;
+			}
+			
+	}
+	
+	@media screen and (max-width: 830px) {
+	
+		.photo {
+			width: 35%;
+			}
+			
+	}
+	
+	@media screen and (max-width: 736px) {
+	
+		.photo {
+			width: 30%;
+			}
+	
+	}
+	
+	@media screen and (max-width: 380px) {
+		.photo {
+			width: 60%;
+			}
+	}
+	
 /* Header */
 
 	#header {

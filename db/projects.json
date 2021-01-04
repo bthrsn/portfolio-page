@@ -1,16 +1,44 @@
 [
   {
-    "name": "Credit Calculator",
-    "img_url": "./images/img-credit-calc.PNG",
-    "page_url": "https://bthrsn.github.io/Delivery-Food-JS/",
-    "code_url": "https://github.com/bthrsn/credit-calculator",
-    "description": "React app credit calculator"
+    "name": "Irvas Window",
+    "img_url": "./images/img-irvas-window.PNG",
+    "page_url": "http://e99920c3.beget.tech/",
+    "code_url": "https://github.com/bthrsn/irvas-window",
+    "description": "Frontend for window service website"
   },
   {
-    "name": "",
-    "img_url": "",
-    "page_url": "",
-    "code_url": "",
-    "description": ""
-  } 
+    "name": "JS Constructor",
+    "img_url": "./images/img-jsconstructor.PNG",
+    "page_url": "https://jsconstructor-855ac.web.app/",
+    "code_url": "https://github.com/bthrsn/JSConstructor",
+    "description": "Website constructor on pure JavaScript"
+  },
+  {
+    "name": "Ya Tunes",
+    "img_url": "./images/img-ya-tunes.PNG",
+    "page_url": "https://bthrsn.github.io/ya-tunes/",
+    "code_url": "https://github.com/bthrsn/ya-tunes",
+    "description": "Frontend for media app"
+  },
+  {
+    "name": "React Calc Money",
+    "img_url": "./images/img-react-calc-money.PNG",
+    "page_url": "https://bthrsn.github.io/react-calc-money/",
+    "code_url": "https://github.com/bthrsn/react-calc-money",
+    "description": "React app Budget Calculator"
+  },
+  {
+    "name": "Need For Miami",
+    "img_url": "./images/img-need-for-miami.PNG",
+    "page_url": "https://bthrsn.github.io/need-for-miami/",
+    "code_url": "https://github.com/bthrsn/need-for-miami",
+    "description": "Frontend for racing webgame"
+  },
+  {
+    "name": "Credit Calculator",
+    "img_url": "./images/img-credit-calc.PNG",
+    "page_url": "https://bthrsn.github.io/credit-calculator/",
+    "code_url": "https://github.com/bthrsn/credit-calculator",
+    "description": "React app credit calculator"
+  }
 ]

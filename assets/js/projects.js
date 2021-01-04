@@ -32,5 +32,5 @@ const getData = async (url) => {
 }
 
 window.addEventListener('DOMContentLoaded', () => {
-  getData('../db/projects.json').then(data => data.forEach(createProjectCard));
+  getData('./db/projects.json').then(data => data.forEach(createProjectCard));
 })

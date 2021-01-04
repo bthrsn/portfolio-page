@@ -14,7 +14,7 @@ const createProjectCard = ({
       <p>${description}</p>
       <ul class="actions special">
         <li><a href="${pageUrl}" class="button">To Page</a></li>
-        <li><a href="https://github.com/bthrsn/credit-calculator" class="button">To Code</a></li>
+        <li><a href="${codeUrl}" class="button">To Code</a></li>
       </ul>
     </article>
   `

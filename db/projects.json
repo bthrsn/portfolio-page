@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Credit Calculator",
+    "img_url": "./images/img-credit-calc.PNG",
+    "page_url": "https://bthrsn.github.io/Delivery-Food-JS/",
+    "code_url": "https://github.com/bthrsn/credit-calculator",
+    "description": "React app credit calculator"
+  },
+  {
+    "name": "",
+    "img_url": "",
+    "page_url": "",
+    "code_url": "",
+    "description": ""
+  } 
+]

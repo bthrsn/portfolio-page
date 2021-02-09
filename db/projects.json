@@ -1,12 +1,5 @@
 [
   {
-    "name": "Irvas Window",
-    "img_url": "./images/img-irvas-window.PNG",
-    "page_url": "http://e99920c3.beget.tech/",
-    "code_url": "https://github.com/bthrsn/irvas-window/",
-    "description": "Frontend for window service website"
-  },
-  {
     "name": "JS Constructor",
     "img_url": "./images/img-jsconstructor.PNG",
     "page_url": "https://jsconstructor-855ac.web.app/",
@@ -14,11 +7,18 @@
     "description": "Website constructor on pure JavaScript"
   },
   {
-    "name": "Ya Tunes",
-    "img_url": "./images/img-ya-tunes.PNG",
-    "page_url": "https://bthrsn.github.io/ya-tunes/",
-    "code_url": "https://github.com/bthrsn/ya-tunes",
-    "description": "Frontend for media app"
+    "name": "Twitter-style-app",
+    "img_url": "./images/img-twiiter-style-app.PNG",
+    "page_url": "https://bthrsn.github.io/twitter-style-app/",
+    "code_url": "https://github.com/bthrsn/twitter-style-app",
+    "description": "Twiiter style app for posts"
+  },
+  {
+    "name": "Whack-a-mole!",
+    "img_url": "./images/img-whack-a-mole.png",
+    "page_url": "https://bthrsn.github.io/whack-a-mole/",
+    "code_url": "https://github.com/bthrsn/whack-a-mole",
+    "description": "Webgame whack-a-mole"
   },
   {
     "name": "React Calc Money",
